@@ -32,7 +32,10 @@ const ImageSlider = () => {
     if (!hovered) {
       interval = setInterval(() => {
         setIndex((prevIndex) => (prevIndex + 1) % images.length);
-      }, 5000); // Change the interval (in milliseconds) as needed
+      
+      }, 2000); // Change the interval (in milliseconds) as needed
+    }else {
+      setHovered(false)
     }
 
     return () => clearInterval(interval);
@@ -51,6 +54,7 @@ const ImageSlider = () => {
           ></div>
         ))}
       </animated.div>
+      
       <button onClick={prevSlide} className="absolute top-1/2 transform -translate-y-1/2 left-4 text-white text-2xl focus:outline-none">
        <BiLeftArrow />
       </button>

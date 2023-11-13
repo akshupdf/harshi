@@ -19,15 +19,15 @@ const Navbar = () => {
 <div className='w-screen flex justify-between items-center fixed  h-24 max-w-[1500px] '>
   
 
-  <h1 className='w-auto text-3xl font-bold  '>Harshi </h1>
+  <h1 className='w-auto text-3xl font-bold  text-white'>Harshi </h1>
 
 
 
       <ul className='hidden md:flex cursor-pointer'>
-        <li className='p-4'><Link to="home" smooth={true} offset={50} duration={500} > Home</Link> </li>
-        <li className='p-4'><Link to="project" smooth={true} offset={50} duration={500} > Popular</Link></li>
-        <li className='p-4'><Link to="hobbies" smooth={true} offset={50} duration={500} > Hobbies</Link></li>
-        <li className='p-4'><Link to="reach" smooth={true} offset={50} duration={500} > Reach Out</Link></li>
+        <li className='p-2 bg-white rounded-xl h-10 m-2'><Link to="home" smooth={true} offset={50} duration={500} > Home</Link> </li>
+        <li className='p-2 bg-white rounded-xl h-10 m-2'><Link to="project" smooth={true} offset={50} duration={500} > Popular</Link></li>
+        <li className='p-2 bg-white rounded-xl h-10 m-2'><Link to="hobbies" smooth={true} offset={50} duration={500} > Hobbies</Link></li>
+        <li className='p-2 bg-white rounded-xl h-10 m-2'><Link to="reach" smooth={true} offset={50} duration={500} > Reach Out</Link></li>
       </ul>
      
 
