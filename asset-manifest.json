@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.74c39f71.css",
+    "main.js": "/profile/static/js/main.2e22b36f.js",
+    "static/media/harshita.png": "/profile/static/media/harshita.a79255670e9b2ccbc16a.png",
+    "static/media/harsh2.jpg": "/profile/static/media/harsh2.79d4df047d3b3340fa7a.jpg",
+    "static/media/harsh4.jpg": "/profile/static/media/harsh4.11b35e93ef1ecd4b2f49.jpg",
+    "static/media/harsh1.jpg": "/profile/static/media/harsh1.5f3d2ba9619a4cd21006.jpg",
+    "static/media/bio.jpg": "/profile/static/media/bio.b040840289dca32d460e.jpg",
+    "static/media/harsh3.jpg": "/profile/static/media/harsh3.c4fd03c81d43a56a815f.jpg",
+    "static/media/harsh5.jpg": "/profile/static/media/harsh5.d5255d07900218b29039.jpg",
+    "static/media/pop1.jpg": "/profile/static/media/pop1.2fc909108a62f480c3dc.jpg",
+    "static/media/pop2.jpg": "/profile/static/media/pop2.543f03800d58fec528e4.jpg",
+    "static/media/pop.jpg": "/profile/static/media/pop.a0c7b58e90871417056e.jpg",
+    "static/media/pop3.jpg": "/profile/static/media/pop3.a54c3528fa7931bbd60f.jpg",
+    "index.html": "/profile/index.html",
+    "static/media/index.js": "/profile/static/media/index.9011c6b325fe7b232949.js",
+    "main.74c39f71.css.map": "/profile/static/css/main.74c39f71.css.map",
+    "main.2e22b36f.js.map": "/profile/static/js/main.2e22b36f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c39f71.css",
+    "static/js/main.2e22b36f.js"
+  ]
+}
